@@ -15,5 +15,15 @@
   "bz2",
   "ogg",
   "txt",
-  "deb"
+  "wav",
+  "tar.gz",
+  "bank",
+  "whysynth",
+  "phx",
+  "synthv1",
+  "syx",
+  "nki",
+  "qtz",
+  "fxp",
+  "carxp"
 ]

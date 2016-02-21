@@ -7,37 +7,37 @@
   },
   {
     "id": 2,
-    "name": "Creative Commons Attribution 4.0 Unported License.",
+    "name": "Creative Commons Attribution 4.0",
     "short_name": "by",
     "license_type": "cc"
   },
   {
     "id": 3,
-    "name": "Creative Commons Attribution-ShareAlike 4.0 Unported License.",
+    "name": "Creative Commons Attribution-ShareAlike 4.0",
     "short_name": "by-sa",
     "license_type": "cc"
   },
   {
     "id": 4,
-    "name": "Creative Commons Attribution-NoDerivs 4.0 Unported License.",
+    "name": "Creative Commons Attribution-NoDerivs 4.0",
     "short_name": "by-nd",
     "license_type": "cc"
   },
   {
     "id": 5,
-    "name": "Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+    "name": "Creative Commons Attribution-NonCommercial 4.0",
     "short_name": "by-nc",
     "license_type": "cc"
   },
   {
     "id": 6,
-    "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.",
+    "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0",
     "short_name": "by-nc-sa",
     "license_type": "cc"
   },
   {
     "id": 7,
-    "name": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
     "short_name": "by-nc-nd",
     "license_type": "cc"
   },
@@ -52,12 +52,6 @@
     "name": "Copyright",
     "short_name": "copyright",
     "license_type": "copyright"
-  },
-  {
-    "id": 10,
-    "name": "Copyleft",
-    "short_name": "copyleft",
-    "license_type": "gpl"
   },
   {
     "id": 11,
@@ -76,5 +70,23 @@
     "name": "GNU General Public License V3",
     "short_name": "gpl-v3",
     "license_type": "gpl"
+  },
+  {
+    "id": 14,
+    "name": "Various Licenses",
+    "short_name": "various",
+    "license_type": "various"
+  },
+  {
+    "id": 15,
+    "name": "Gray Area",
+    "short_name": "gray",
+    "license_type": "gray"
+  },
+  {
+    "id": 16,
+    "name": "Free Art License v1.3",
+    "short_name": "falv13",
+    "license_type": "fal"
   }
 ]
