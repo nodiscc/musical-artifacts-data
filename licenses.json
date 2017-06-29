@@ -88,5 +88,11 @@
     "name": "Free Art License v1.3",
     "short_name": "falv13",
     "license_type": "fal"
+  },
+  {
+    "id": 17,
+    "name": "Do What The Fuck You Want To Public License v2",
+    "short_name": "wtfpl",
+    "license_type": "wtfpl"
   }
 ]
